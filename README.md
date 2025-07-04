@@ -16,4 +16,7 @@
 <p align="left">
   <img src="https://nirzak-streak-stats.vercel.app/?user=minajmsh&theme=apprentice&hide_border=true"/>
 </p>
+<p align="center">
+  <img src="notion covers.jpg" alt="Banner" width="100%"/>
+</p>
 
