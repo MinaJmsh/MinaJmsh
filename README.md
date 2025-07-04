@@ -9,8 +9,8 @@
 ### 📊 GitHub Stats:
 
 <p align="left">
-  <img src="https://github-contributor-stats.vercel.app/api?username=minajmsh&limit=5&theme=apprentice&combine_all_yearly_contributions=true" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minajmsh&theme=apprentice&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="200"/>
+  <img src="https://github-contributor-stats.vercel.app/api?username=minajmsh&limit=5&theme=apprentice&hide_border=true&combine_all_yearly_contributions=true" width="40%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minajmsh&theme=apprentice&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="40%"/>
 </p>
 
 <p align="left">
